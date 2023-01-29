@@ -1,0 +1,19 @@
+.button1{
+    background:linear-gradient(rgb(233, 233, 152),rgb(245, 245, 123),yellow);
+    /* border-color: darkgrey; */
+    /* color: rgb(5, 4, 4); */
+    font-weight: bold;
+    /* padding: 35px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.rounded-corners {
+    border-radius: 25px;
+  }

@@ -1,0 +1,47 @@
+body{
+background: radial-gradient(#e5e5e5,#ffff,#e5e5e5);
+ 
+}
+.card{
+   width:20rem;
+   /* border:20px  !important;
+   border-bottom: 30px; */
+   box-shadow:3px 2px  darkgrey;
+   border-radius: 0%;
+}
+.card:hover{
+   
+border-color: yellow!important;
+border: width 200px !important;
+box-decoration-break: initial;
+box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253S);
+}
+.button {
+    background-color: white;
+    border-color: darkgrey;
+    color: rgb(5, 4, 4);
+    font-weight: bold;
+    /* padding: 35px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .buttonCircle{border-radius:50%;
+}
+.title1{
+   font-weight: bold;
+}
+.savetext{
+   padding-bottom: 20px;
+
+}
+/* .card-img-middle{
+   width: 120px;
+   height: 120px;
+} */
