@@ -2,12 +2,15 @@ body{
 background: radial-gradient(#e5e5e5,#ffff,#e5e5e5);
  
 }
+
 .card{
    width:20rem;
    /* border:20px  !important;
    border-bottom: 30px; */
    box-shadow:3px 2px  darkgrey;
    border-radius: 0%;
+   padding:20px;
+   height: 25rem !important;
 }
 .card:hover{
    

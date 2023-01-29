@@ -5,7 +5,7 @@ import './PlanCards-styles.css'
 export const PlanCards = props => {
   return (
    
-  <div className="card text">
+  <div className="card text" >
     <div className="overflow">
         <img src={props.imgsrc} alt="personal" className='card-img-middle'  />
         <div className="card-body text-dark" ></div>
